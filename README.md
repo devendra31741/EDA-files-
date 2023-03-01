@@ -1,5 +1,5 @@
 <h1>SALES ANALYSIS</h1>
-<h3> Objective of the data </h3>: 
+<h3> Objective of the data :</h3>
 To analyze the sales data.
 <h3>TOOLS USED : Python and Excel</h3>
 <h4> About the Data </h4>
